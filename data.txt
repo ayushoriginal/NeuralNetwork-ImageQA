@@ -1,0 +1,1 @@
+'Tue Dec 20 00:00:00 2016  -0400942519' ; git add data.txt; GIT_AUTHOR_DATE='Tue Dec 20 00:00:00 2016  -0400' GIT_COMMITTER_DATE='Tue Dec 20 00:00:00 2016  -0400' git commit -m 'Update CNN'; git push;
